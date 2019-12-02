@@ -1,1 +1,1 @@
-module.exports = { markup: '<svg></svg>'};
+module.exports = { markup: '<svg></svg>' };

@@ -36,6 +36,8 @@ import { keycodes } from 'crosswords/keycodes';
 import { saveGridState, loadGridState } from 'crosswords/persistence';
 import { classNames } from 'crosswords/classNames';
 
+
+// Could I have words with whoever installed ESLint and then completely ignored it?
 class Crossword extends Component {
   constructor(props) {
     super(props);

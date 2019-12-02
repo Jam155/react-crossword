@@ -8,6 +8,7 @@
 		"bonzo": "~2.0.0",
 		"fastdom": "0.8.5",
 		"lodash": "^4.17.11",
+		"path": "^0.12.7",
 		"qwery": "3.4.2",
 		"svg-inline-loader": "^0.8.0",
 		"wolfy87-eventemitter": "~5.2.4"
